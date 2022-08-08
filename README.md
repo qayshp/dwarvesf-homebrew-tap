@@ -11,8 +11,8 @@ This is a part of homebrew, the missing package manager of MacOS. You need to in
 ### Usage
 
 ```
-$ brew tap dwarvesf/homebrew-tap
-$ brew install dfdf
+$ brew tap qayshp/homebrew-tap–dwarvesf
+$ brew install <formula or cask>
 ```
 
 ## License
